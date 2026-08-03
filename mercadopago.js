@@ -1,2 +1,3 @@
 m = 'mercadopago'
-console.log(m)
+d = 'devedor'
+console.log(m, d)
