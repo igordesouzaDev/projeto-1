@@ -1,4 +1,7 @@
 h1{
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
+} 
+p{
+    text-decoration: underline;
 }
